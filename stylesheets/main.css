@@ -29,10 +29,12 @@ h2.center{
   /*navbar de los cojones*/
     nav#nav-bar{
       position: fixed !important;
-      width: 94% !important;
-      top: 0 !important;
+      width: 100% !important;
+      top: 0px !important;
       margin-bottom: 20px;
       z-index: 100;
+      left: 0;
+      border-bottom: 1px solid rgb(113, 156, 219);
     }
     /*--fin de navbar de los cojones*/
   /*categorías principales*/
