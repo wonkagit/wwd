@@ -17,9 +17,20 @@ h1.center{
 h2.center{
   text-align: center;
 }
+h2.ofrezco{
+}
+img.trabajos-d{
+  max-width: 100%;
+}
 .col-overview:hover{
       border-bottom: 5px solid rgba(30, 223, 232, 0.25);
 }
+/*------------------------------tecnologias-----------------------------------*/
+section#tecnologias>.row{
+  width: 16.66%;
+  height: 100px;
+}
+/*______________________________fin de tecnologias____________________________*/
 @media (max-width: 768px) { /*............col-xs estaba en min-width: >768px*/
   .col-overview{
     width: 100%;
